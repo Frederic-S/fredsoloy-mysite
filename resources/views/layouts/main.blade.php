@@ -6,11 +6,12 @@
 
         <title>Fred Soloy</title>
         <!-- Styles -->
+        <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
         <link rel="stylesheet" href="/css/app.css">
         
         
     </head>
-    <body class="antialiased font-sans bg-gray-400 text-white">
+    <body class="antialiased font-sans bg-gray-300 text-white">
         <div class="container">
         @yield('content')
         </div>

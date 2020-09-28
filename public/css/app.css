@@ -1,3 +1,13 @@
 body {
     background: #ced4da;
 }
+
+/* NAVBAR **********************/
+.navbar {
+    background-color: #ced4da;
+    color: #11b5f2;
+}
+
+.navlogo {
+    width: 48px;
+}

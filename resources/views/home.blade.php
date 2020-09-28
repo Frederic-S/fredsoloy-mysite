@@ -1,5 +1,20 @@
 @extends('layouts/main')
 
 @section('content')
-    <h1 class="title">Home page <span class="badge bg-secondary"> New</span></h1>
+    <header>
+    <div class="view">
+        <div class="full-bg-img">
+            <div class="mask rgba-black-strong flex-center">
+                <div class="container">
+                    <div class="white-text text-center wow fadeInUp">
+                        <h2>hi people</h2>
+                        <h5>I'm Fred Soloy</h5>
+                        <br>
+                        <p>Web Developer</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </header>
 @endsection
